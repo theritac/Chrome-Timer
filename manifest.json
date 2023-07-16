@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Timeout",
+    "version": "1.0.0",
+    "description": "Timer to keep track of time spent on a specific tab",
+    
+    "author": "Rita Chen",
+    "action": {
+        "default_title": "Click here to see timer",
+        "default_popup": "index.html"
+      }
+}

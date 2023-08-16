@@ -1,20 +1,20 @@
 body {
     text-align: center;
-    background: #00ecb9;
-    font-family: sans-serif;
+    background: #e0bebe;
+    font-family: monospace;
     font-weight: 100;
 }
 
 /* Styling for heading */
 h1 {
-    color: #396;
+    color: #0d3d70;
     font-weight: 100;
     font-size: 40px;
     margin: 40px 0px 20px;
 }
 #clockdiv {
-    font-family: sans-serif;
-    color: #fff;
+    font-family: monospace;
+    color: #092a4d;
     display: inline-block;
     font-weight: 100;
     text-align: center;
@@ -23,13 +23,13 @@ h1 {
 #clockdiv > div {
     padding: 10px;
     border-radius: 3px;
-    background: #00bf96;
+    background: #d18a8a;
     display: inline-block;
 }
 #clockdiv div > span {
     padding: 15px;
     border-radius: 3px;
-    background: #00816a;
+    background: #e9c4bd; 
     display: inline-block;
 }
 
